@@ -1,6 +1,6 @@
 window.addEventListener("load", function () {
   var options = {
-    strings: ["Developer.", "Student.", "Enthousiast."],
+    strings: ["Developer.", "Student.", "Enthusiast."],
     typeSpeed: 40,
     backSpeed: 40,
     backDelay: 2000,
